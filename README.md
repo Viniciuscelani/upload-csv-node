@@ -13,7 +13,7 @@
 
 ```
 bash
-git clone 
+git clone https://github.com/Viniciuscelani/upload-csv-node.git
 ```
 
 - Depois de clonar o projeto no seu local favorito, abra-o com sua ide favorita
